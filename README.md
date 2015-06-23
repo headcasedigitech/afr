@@ -1,0 +1,2 @@
+# afr
+WordPress Multilingual Website
